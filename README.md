@@ -1,2 +1,2 @@
 # CAProject
-Computer Architecture 6 Semester Project
+Computer Architecture Semester 6 Project
